@@ -1,0 +1,28 @@
+.header-container img{
+    width: 120px;
+    margin: 0px;
+    margin-bottom: 0;
+}
+/* .header-container{
+    margin-top:40px;
+    margin-left: 85px;
+    margin-bottom: 20px;
+} */
+.header-container h3{
+    margin-top:0px;
+    margin-left: 85px;
+    margin-bottom: 20px;
+}
+.header-container h1{
+    color: rgba(0, 51, 255, 0.772);
+    margin-left: 5px;
+
+}
+.header-logo{
+    display: flex;
+    /* justify-content:center; */
+    align-items: center;
+    margin-top:40px;
+    margin-left: 35px;
+    margin-bottom: 20px;
+}
