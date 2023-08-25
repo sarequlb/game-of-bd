@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useEffect } from 'react';
 import './Games.css'
 import Game from '../Game/Game';
+import Cart from '../Cart/Cart';
 
 const Games = () => {
     const [games, setGames] = useState([])
@@ -14,11 +15,12 @@ const Games = () => {
         <div className='games'>
             <div className='games-container'>
                 {
+                    
                     games.map(game => <Game key = {game.id} game = {game}></Game>)
                 }
             </div>
             <div className='cart-container'>
-                <h1>cart</h1>
+                <Cart></Cart>
             </div>
         </div>
     );

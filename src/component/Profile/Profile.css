@@ -1,0 +1,45 @@
+.introduce img{
+    width: 80px;
+    border-radius: 80%;
+}
+.introduce{
+    display: flex;
+    align-items: center;
+}
+.introduce p{
+    padding: 0;
+    margin: 0;
+    /* margin-left: 7px; */
+}
+.location{
+    margin-left: 6px;
+}
+.name{
+    margin: 0;
+}
+
+/* age height weight */
+.w-h-a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color: rgba(105, 105, 105, 0.312);
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.w-h-a h2 span{
+    font-size: 16px;
+    font-weight: 100;
+    
+}
+.w-h-a h5{
+    margin: 0;
+    font-size: 14px;
+    font-weight: 100;
+}
+.w-h-a h2{
+    margin: 0;
+}

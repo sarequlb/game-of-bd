@@ -5,9 +5,8 @@
     margin: 20px 0px 0px 24px;
 }
 .game{
-    /* background-color: brown; */
     width: 250px;
-    height: 334px;
+    height:343px;
     margin: 10px;
     box-shadow: 5px 10px 10px 10px #8888882d;
     border-radius: 6px;
@@ -19,3 +18,17 @@
     padding: 0px 20px 0px 25px;
     /* color: aqua; */
 } 
+.btn-add{
+    background-color:rgba(0, 51, 255, 0.772);
+    padding: 10px 90px 10px 80px;
+    margin-left: 10px;
+    /* padding-left: 90px;
+    padding-right: 90px; */
+    border: 0;
+    color: rgb(252, 252, 252);
+    border-radius: 7px;
+    cursor: pointer;
+}
+.btn-add:hover{
+    background-color: rgb(1, 156, 1);
+}

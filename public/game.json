@@ -10,14 +10,14 @@
       "id": "64e5d980557bf20f6c1c7a84",
       "img": "images/image2.png.jpeg",
       "name":"Hockey",
-      "info":"Hockey is the national game of India. Also,it is a popular game.",
+      "info":"Hockey is the national game of India. Also,it is a popular game,and interesting game.",
       "time": 700
     },
     {
       "id": "64e5d98069c4b1dcddf2964b",
       "img": "images/image3.png.jpg",
       "name":"Football",
-      "info":"The football match is played with only two goalposts, a field and a football. It is a 90-minute game in which two teams.",
+      "info":"The football match is played with only two goalposts, a field and a football.",
       "time": 1200
     },
     {
@@ -39,7 +39,7 @@
       "name":"Bicylce",
       "id": "64e5d980d64c0ee798ebd30d",
       "img":"images//image6.png.jpg",
-      "info":"A bicycle is a useful vehicle that helps us reach a destination without polluting the environment.",
+      "info":"A bicycle is a useful vehicle that helps us reach a destination without polluting.",
       "time": 800
     }
   ]

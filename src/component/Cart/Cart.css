@@ -1,0 +1,52 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+.btn-sec{
+    background-color: rgba(105, 105, 105, 0.312);
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.btn-sec button{
+    padding: 15px;
+    margin: 6px 16px 6px 6px;
+    border: 0;
+    border-radius: 25px;
+    cursor: pointer;
+
+}
+.btn-sec button:hover{
+    color: aliceblue;
+    background-color: rgba(0, 51, 255, 0.772);
+}
+.game-time{
+    background-color: rgba(105, 105, 105, 0.312);
+    padding: 1px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.break-time{
+    background-color: rgba(105, 105, 105, 0.312);
+    padding: 1px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    margin-bottom: 80px;
+}
+.activity-btn{
+    width: 100%;
+    border: 0;
+    color: aliceblue;
+    background-color: rgba(0, 51, 255, 0.772);
+    padding: 15px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.activity-btn:hover{
+    background-color: rgb(1, 156, 1);
+}

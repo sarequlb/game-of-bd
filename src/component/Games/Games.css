@@ -1,10 +1,16 @@
 .games{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 3fr 1fr;
+    margin-left: 70px;
 }
 .games-container{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        margin-left: 70px;
         
+        
+}
+.cart-container{
+    box-shadow: 5px 10px 10px 10px #8888882d;
+    /* position:fixed;
+    top: 0; */
 }

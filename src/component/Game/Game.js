@@ -10,7 +10,7 @@ const Game = (props) => {
             <h4>{name}</h4>
             <p className='info'>{info}</p>
             <p>Time required: {time}</p>
-            <button>Add to list</button>
+            <button className='btn-add'>Add to list</button>
         </div>
     );
 };
