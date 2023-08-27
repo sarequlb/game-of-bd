@@ -46,6 +46,7 @@
     padding: 15px;
     border-radius: 7px;
     cursor: pointer;
+    margin: 10px;
 }
 .activity-btn:hover{
     background-color: rgb(1, 156, 1);

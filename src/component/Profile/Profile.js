@@ -30,7 +30,7 @@ const Profile = () => {
                         <h5>Height</h5>
                     </div>
                     <div className='a'>
-                        <h2>25<span>yrs</span></h2>
+                        <h2>19<span>yrs</span></h2>
                         <h5>Age</h5>
                     </div>
                 </div>
